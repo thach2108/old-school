@@ -1,0 +1,11 @@
+@import "includes/func";
+
+@include fonts('Cabin','./Cabin-Italic', 400, 'italic');
+@include fonts('Cabin','./Cabin-MediumItalic', 500, 'italic');
+@include fonts('Cabin','./Cabin-SemiBoldItalic', 600, 'italic');
+@include fonts('Cabin','./Cabin-BoldItalic', 700, 'italic');
+
+@include fonts('Cabin','./Cabin-Regular', 500);
+@include fonts('Cabin','./Cabin-SemiBold', 600);
+@include fonts('Cabin','./Cabin-Bold', 700);
+@include fonts('Cabin','./Cabin-Regular', 400);

@@ -1,0 +1,3 @@
+rootProject.name = 'thach'
+
+include ':app'

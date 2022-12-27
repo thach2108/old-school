@@ -1,0 +1,17 @@
+@import "includes/func";
+@import "includes/base";
+@import "includes/var";
+@import "includes/main";
+@import "includes/res";
+
+html, body{
+    font-family: Cabin, sans-serif;
+}
+
+.isMobile{
+    background-image: url('images/landscape.jpg');
+    background-color: #bcf7ff;
+    background-repeat: no-repeat;
+		background-position: center;
+		background-size: 100% 100%;
+}

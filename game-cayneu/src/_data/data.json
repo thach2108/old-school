@@ -1,0 +1,253 @@
+{
+  "site": {
+    "title": "Our Awesome Website",
+    "author": "Tushar Ghate",
+    "meta": {
+      "charset": "utf8",
+      "description": "Lorem ipsum dolor sit amit.",
+      "keywords": "lorem, ipsum, dolor, sit, amit",
+      "favicon": "favicon.ico"
+    }
+  },
+
+  "nav": {
+    "links": [{
+        "href": "/link1",
+        "name": "Home"
+      },
+
+      {
+        "href": "/link2",
+        "name": "Service"
+      },
+
+      {
+        "href": "/link3",
+        "name": "Customer"
+      }
+    ]
+  },
+
+  "translations": {
+    "HELLO_WORLD": {
+      "en-CA": "Hello World",
+      "fr-CA": "Bonjour le monde"
+    }
+  },
+  "data": {
+    "Q": "Which words begin with the b sound as in bed?",
+    "Nr": 10,
+    "Nw": 20,
+    "A": [{
+        "No": 1,
+        "I": "media/ball/ball 1.png",
+        "S": "media/ball/ball.mp3",
+        "T": "ball",
+        "R": true
+      },
+      {
+        "No": 2,
+        "I": "media/banana/banana 1.png",
+        "S": "media/banana/banana.mp3",
+        "T": "banana",
+        "R": true
+      },
+      {
+        "No": 3,
+        "I": "media/basket/basket 1.png",
+        "S": "media/basket/basket.mp3",
+        "T": "basket",
+        "R": true
+      },
+      {
+        "No": 4,
+        "I": "media/bed/bed 1.png",
+        "S": "media/bed/bed.mp3",
+        "T": "bed",
+        "R": true
+      },
+      {
+        "No": 5,
+        "I": "media/bike/bike 1.png",
+        "S": "media/bike/bike.mp3",
+        "T": "bike",
+        "R": true
+      },
+      {
+        "No": 6,
+        "I": "media/bird/bird 1.png",
+        "S": "media/bird/bird.mp3",
+        "T": "bird",
+        "R": true
+      },
+      {
+        "No": 7,
+        "I": "media/boat/boat 1.png",
+        "S": "media/boat/boat.mp3",
+        "T": "boat",
+        "R": true
+      },
+      {
+        "No": 8,
+        "I": "media/book/book 1.png",
+        "S": "media/book/book.mp3",
+        "T": "book",
+        "R": true
+      },
+      {
+        "No": 9,
+        "I": "media/box/box 1.png",
+        "S": "media/box/box.mp3",
+        "T": "box",
+        "R": true
+      },
+      {
+        "No": 10,
+        "I": "media/bread/bread 1.png",
+        "S": "media/bread/bread.mp3",
+        "T": "bread",
+        "R": true
+      },
+      {
+        "No": 11,
+        "I": "media/bus/bus 1.png",
+        "S": "media/bus/bus.mp3",
+        "T": "bus",
+        "R": true
+      },
+      {
+        "No": 12,
+        "I": "media/dog/dog 1.png",
+        "S": "media/dog/dog.mp3",
+        "T": "dog",
+        "R": false
+      },
+      {
+        "No": 13,
+        "I": "media/donkey/donkey 1.png",
+        "S": "media/donkey/donkey.mp3",
+        "T": "donkey",
+        "R": false
+      },
+      {
+        "No": 14,
+        "I": "media/hammer/hammer 1.png",
+        "S": "media/hammer/hammer.mp3",
+        "T": "hammer",
+        "R": false
+      },
+      {
+        "No": 15,
+        "I": "media/mattress/mattress 1.png",
+        "S": "media/mattress/mattress.mp3",
+        "T": "mattress",
+        "R": false
+      },
+      {
+        "No": 16,
+        "I": "media/nine/nine 1.png",
+        "S": "media/nine/nine.mp3",
+        "T": "nine",
+        "R": false
+      },
+      {
+        "No": 17,
+        "I": "media/panda/panda 1.png",
+        "S": "media/panda/panda.mp3",
+        "T": "panda",
+        "R": false
+      },
+      {
+        "No": 18,
+        "I": "media/panda/panda 1.png",
+        "S": "media/panda/panda.mp3",
+        "T": "panda",
+        "R": false
+      },
+      {
+        "No": 19,
+        "I": "media/sand/sand 1.png",
+        "S": "media/sand/sand.mp3",
+        "T": "sand",
+        "R": false
+      },
+      {
+        "No": 20,
+        "I": "media/seven/seven 1.png",
+        "S": "media/seven/seven.mp3",
+        "T": "seven",
+        "R": false
+      },
+      {
+        "No": 21,
+        "I": "media/tomato/tomato 1.png",
+        "S": "media/tomato/tomato.mp3",
+        "T": "botomatook",
+        "R": false
+      },
+      {
+        "No": 22,
+        "I": "media/tomato/tomato 1.png",
+        "S": "media/tomato/tomato.mp3",
+        "T": "tomato",
+        "R": false
+      },
+      {
+        "No": 23,
+        "I": "media/tomato/tomato 1.png",
+        "S": "media/tomato/tomato.mp3",
+        "T": "tomato",
+        "R": false
+      },
+      {
+        "No": 24,
+        "I": "media/tomato/tomato 1.png",
+        "S": "media/tomato/tomato.mp3",
+        "T": "tomato",
+        "R": false
+      },
+      {
+        "No": 25,
+        "I": "media/tomato/tomato 1.png",
+        "S": "media/tomato/tomato.mp3",
+        "T": "tomato",
+        "R": false
+      },
+      {
+        "No": 26,
+        "I": "media/tomato/tomato 1.png",
+        "S": "media/tomato/tomato.mp3",
+        "T": "tomato",
+        "R": false
+      },
+      {
+        "No": 27,
+        "I": "media/tomato/tomato 1.png",
+        "S": "media/tomato/tomato.mp3",
+        "T": "tomato",
+        "R": false
+      },
+      {
+        "No": 28,
+        "I": "media/tomato/tomato 1.png",
+        "S": "media/tomato/tomato.mp3",
+        "T": "tomato",
+        "R": false
+      },
+      {
+        "No": 29,
+        "I": "media/tomato/tomato 1.png",
+        "S": "media/tomato/tomato.mp3",
+        "T": "tomato",
+        "R": false
+      },
+      {
+        "No": 30,
+        "I": "media/tomato/tomato 1.png",
+        "S": "media/tomato/tomato.mp3",
+        "T": "tomato",
+        "R": false
+      }
+    ]
+  }
+}

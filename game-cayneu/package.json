@@ -1,0 +1,39 @@
+{
+  "name": "template-html",
+  "version": "1.0.0",
+  "description": "A Pug and Sass starter project using gulp for task automation.",
+  "main": "gulpfile.js",
+  "author": "duyph",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build",
+    "prod": "gulp prod",
+    "json": "gulp API"
+  },
+  "devDependencies": {
+    "bower": "^1.8.2",
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-concat": "^2.6.1",
+    "gulp-data": "*",
+    "gulp-minify": "^2.1.0",
+    "gulp-pug": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "jade",
+    "gulp",
+    "pug",
+    "sass",
+    "browsersync"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "node-gyp": "^3.8.0"
+  }
+}
